@@ -1,0 +1,63 @@
+apiVersion: v1
+entries:
+  icmp-responder:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: 2019-11-11T11:37:50.686694-06:00
+    description: A Helm chart for Kubernetes
+    digest: 895a895c56eae9ebccb31b6d99f3b22b5751a72cb77891baf82be702c527eb40
+    name: icmp-responder
+    urls:
+    - icmp-responder-0.2.0.tgz
+    version: 0.2.0
+  nsm:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: 2019-11-11T11:37:50.687797-06:00
+    description: A Helm chart for Kubernetes
+    digest: a4a9a34b62b866142cde6cb878b600f5953e511899323e70e66d9b96c96077b8
+    name: nsm
+    urls:
+    - nsm-0.2.0.tgz
+    version: 0.2.0
+  nsm-monitoring:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: 2019-11-11T11:37:50.689893-06:00
+    description: A Helm chart for Kubernetes
+    digest: d4b77bddac432c7d5506d1f737fbfc56929cb9be2d762c401f4c6d73dd80a071
+    name: nsm-monitoring
+    urls:
+    - nsm-monitoring-0.2.0.tgz
+    version: 0.2.0
+  proxy-nsmgr:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-11-11T11:37:50.690337-06:00
+    description: A Helm chart for Kubernetes
+    digest: e4403819553821ad8fc705218e80704f4cf43682b5bb95b9fc1c9d8460940d2b
+    name: proxy-nsmgr
+    urls:
+    - proxy-nsmgr-0.1.0.tgz
+    version: 0.1.0
+  vpn:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: 2019-11-11T11:37:50.690763-06:00
+    description: A Helm chart for Kubernetes
+    digest: b7d0d5a22e9f402d5f4b4e6e2e888e1f952887b62a824e5f01c60f264638c10a
+    name: vpn
+    urls:
+    - vpn-0.2.0.tgz
+    version: 0.2.0
+  vpp-icmp-responder:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: 2019-11-11T11:37:50.691047-06:00
+    description: A Helm chart for Kubernetes
+    digest: 28a38683f335cbbd024c27d94e7e16489169da122c05d6d0d23b079826e78bdf
+    name: vpp-icmp-responder
+    urls:
+    - vpp-icmp-responder-0.2.0.tgz
+    version: 0.2.0
+generated: 2019-11-11T11:37:50.684524-06:00
